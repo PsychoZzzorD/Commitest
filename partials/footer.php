@@ -1,0 +1,13 @@
+<footer>
+	<div>
+		<p>Mouhahaha</p>
+	</div>
+	<div>
+		<p>Mouhahaha</p>
+	</div>
+	<div>
+		<p>Mouhahaha</p>
+	</div>
+</footer>
+</body>
+</html>
